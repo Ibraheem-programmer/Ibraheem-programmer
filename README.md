@@ -1,4 +1,4 @@
-Hi, I’m Ibraheem, sel-taught programmer.I’m interested in web development full stack.
+Hi, I’m Ibraheem, self-taught programmer.I’m interested in web development full stack.
 Hope to make great contribution to Github community throughout my journey.  
 
 <!---
